@@ -5,7 +5,7 @@ Neural Network
 # Author: Ali Pala <alipala@buffalo.edu>
 # Date of Creation: 01/12/2019
 
-# To Do
+# TODO
 # - handle subsequent batching
 # - incorporate dropout into the model
 # - early stopping
